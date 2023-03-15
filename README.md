@@ -6,7 +6,7 @@
 
 <body style="background-color:powderblue;">
   <h1 style="text-align:center;">Welcome</h1>
-  <p style="text-align:center;">Select a topic to read about:</p>
+  <p style="text-align:center;">Select a game / page:</p>
   <style>
     .block {
       display: block;
@@ -21,6 +21,6 @@
     }
   </style>
   <a href="whatcomputer.html">
-    <center><button class="block"><b>What is a computer network?</b></button></center>
+    <center><button class="block"><b>Death Is Good (scratch)</b></button></center>
   </a>
   <br>
