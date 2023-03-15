@@ -20,7 +20,7 @@
       text-align: center;
     }
   </style>
-  <a href="whatcomputer.html">
+  <a href="deathisgoodscratch">
     <center><button class="block"><b>Death Is Good (scratch)</b></button></center>
   </a>
   <br>
