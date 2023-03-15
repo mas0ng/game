@@ -20,7 +20,7 @@
       text-align: center;
     }
   </style>
-  <a href="https://mas0ng.github.io/game/deathisgoodscratch">
+  <a href="deathisgoodscratch.html">
     <center><button class="block"><b>Death Is Good (scratch)</b></button></center>
   </a>
   <br>
